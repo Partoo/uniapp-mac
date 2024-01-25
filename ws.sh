@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============根据实际修改如下两个环境变量==============
-export HBUILDER_DIR=/Applications/HBuilderX
-export WEIXIN_DEV_DIR="/Applications/wechatwebdevtools.app"
+export HBUILDER_DIR=/Applications/HBuilderX.app/Contents/HBuilderX
+export WEIXIN_DEV_DIR=/Applications/wechatwebdevtools.app
 # ==============注意变量尾部不要带斜杠==============
 
 export UNI_INPUT_DIR=$(pwd)
